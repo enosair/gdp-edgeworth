@@ -2,7 +2,7 @@
 
 This repo contains simple demo code for the following paper, to compute the composition bound of Gaussian differential privacy using the degree-2 Edgeworth approximation.
 
-> Qinqing Zheng, Jinshuo Dong, Qi Long, Weijie J. Su. *Sharp Composition Bounds for Gaussian Differential Privacy via Edgeworth Expansion*. [[arXiv:2003.04493](https://arxiv.org/abs/2003.04493)].
+> Qinqing Zheng, Jinshuo Dong, Qi Long, Weijie J. Su. *Sharp Composition Bounds for Gaussian Differential Privacy via Edgeworth Expansion*. ICML 2020. [[arXiv:2003.04493](https://arxiv.org/abs/2003.04493)].
 
 ### Introduction
 Datasets containing sensitive information are often sequentially analyzed by many
